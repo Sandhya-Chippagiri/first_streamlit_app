@@ -1,7 +1,7 @@
 import streamlit
 
 
-streamlit.title('My Mom's New Healthy Diner')
+streamlit.title('My Moms New Healthy Diner')
 🥣 🥗 🐔 🥑🍞
 streamlit.header('Breakfast menu')
 streamlit.text('🥣omega 3 and Blueberry oatmeal')
